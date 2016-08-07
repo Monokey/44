@@ -1,0 +1,3 @@
+[submodule "Tracks/York"]
+	path = Tracks/York
+	url = git@github.com:Monokey/York.git
